@@ -47,7 +47,7 @@ main {
 h1 {
     margin: 0;
     color: #464547;
-    font-size: 72px;
+    font-size: 52px;
     font-family: Museo Sans, sans;
     font-weight: 900;
 }
@@ -55,7 +55,7 @@ h1 {
 h2 {
     margin: 0;
     color: #4f72f4;
-    font-size: 48px;
+    font-size: 38px;
     font-family: Museo Sans, sans;
     font-weight: 300;
 }
@@ -63,15 +63,15 @@ h2 {
 h3 {
     margin: 0;
     color: #4f72f4;
-    font-size: 46px;
+    font-size: 36px;
     font-family: Museo Sans, sans;
     font-weight: 300;
 }
 
 .text {
     color: #464547;
-    font-size: 48px;
-    line-height: 60px;
+    font-size: 38px;
+    line-height: 50px;
     font-family: Source Sans Pro, sans;
 }
 
@@ -83,7 +83,7 @@ h3 {
 	padding:20px 0px;
 	margin-bottom: 50px;
     color: #4f72f4;
-    font-size: 48px;
+    font-size: 38px;
     font-family: Museo Sans, sans;
     font-weight: 300;
     background-color: #e5e5e5;
@@ -107,7 +107,7 @@ footer {
 .footer-text {
     display: inline-block;
     color: #fff;
-    font-size: 30px;
+    font-size: 20px;
     font-family: Source Sans Pro, sans;
     margin: 10px 0 0 10%;
     text-decoration: none;
